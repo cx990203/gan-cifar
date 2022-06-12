@@ -16,7 +16,8 @@ gan网络采用生成网络和判别网络进行对抗</br>
 ![epoch-243](https://user-images.githubusercontent.com/77096562/173227854-075265a9-fcdd-4106-b762-a6659e498f16.png)
 ![epoch-244](https://user-images.githubusercontent.com/77096562/173227857-d5d884a9-a55e-4c1f-8ef3-99b1b2aaf84c.png)
 ![epoch-245](https://user-images.githubusercontent.com/77096562/173227859-fdc26000-5f6f-45da-af2a-4fefa4c0df56.png)</br>
-![image](https://github.com/cx990203/gan-cifar/blob/main/gan-cifar10.gif)
+生成过程动态图</br>
+![image](https://github.com/cx990203/gan-cifar/blob/main/gan-cifar10.gif)</br>
 生成结果还是比较模糊的，且背景看起来相对比较花
 ## 模型损失
 gan模型的损失比较特别，其损失不能收敛。虽然理想情况下损失应该是需要收敛的，但是实际训练难以达到理想效果</br>
