@@ -12,6 +12,7 @@ gan网络采用生成网络和判别网络进行对抗</br>
 用于训练的图片（cifar-10）:</br>
 ![cifar-10](https://user-images.githubusercontent.com/77096562/173227813-a84ea9f3-1cc7-4153-9a96-1b3d58e5f3c0.png)</br>
 生成结果:</br>
+![epoch-242](https://user-images.githubusercontent.com/77096562/173230173-d5e47364-837b-4cba-a089-32eea5297477.png)
 ![epoch-243](https://user-images.githubusercontent.com/77096562/173227854-075265a9-fcdd-4106-b762-a6659e498f16.png)
 ![epoch-244](https://user-images.githubusercontent.com/77096562/173227857-d5d884a9-a55e-4c1f-8ef3-99b1b2aaf84c.png)
 ![epoch-245](https://user-images.githubusercontent.com/77096562/173227859-fdc26000-5f6f-45da-af2a-4fefa4c0df56.png)</br>
